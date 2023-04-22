@@ -31,4 +31,4 @@ let obj2 ={
 //console.log(obj3)
 
 let{name1, job, age}= obj1;
-console.log(name1, age,  job) //destructuring
+console.log(name1, age,  job); //destructuring
